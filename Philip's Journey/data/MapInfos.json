@@ -1,5 +1,6 @@
 [
 null,
-{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":616.8,"scrollY":386.8},
-{"id":2,"expanded":false,"name":"MAP002","order":2,"parentId":0,"scrollX":616.8,"scrollY":386.8}
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":1228.5,"scrollY":686.25},
+{"id":2,"expanded":false,"name":"MAP002","order":2,"parentId":0,"scrollX":1228.5,"scrollY":686.25},
+{"id":3,"expanded":false,"name":"Mountain Map","order":3,"parentId":0,"scrollX":1228.5,"scrollY":686.25}
 ]
