@@ -1,11 +1,11 @@
 [
 null,
-{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":819,"scrollY":438.5},
 {"id":2,"expanded":false,"name":"MAP002","order":2,"parentId":0,"scrollX":819,"scrollY":438.5},
-{"id":3,"expanded":false,"name":"Mountain Map","order":3,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":4,"expanded":false,"name":"Woodland Adventure","order":4,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":5,"expanded":false,"name":"MAP003","order":5,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":6,"expanded":false,"name":"MAP004","order":6,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":3,"expanded":false,"name":"Mountain Map","order":3,"parentId":0,"scrollX":811,"scrollY":640.5},
+{"id":4,"expanded":false,"name":"Woodland Adventure","order":4,"parentId":0,"scrollX":811,"scrollY":761.5},
+{"id":5,"expanded":false,"name":"MAP003","order":5,"parentId":0,"scrollX":819,"scrollY":438.5},
+{"id":6,"expanded":false,"name":"MAP004","order":6,"parentId":0,"scrollX":811,"scrollY":521.5},
 null,
-{"id":8,"expanded":true,"name":"maze","order":8,"parentId":0,"scrollX":1690,"scrollY":2216}
+{"id":8,"expanded":true,"name":"maze","order":8,"parentId":0,"scrollX":1666,"scrollY":666.5}
 ]
