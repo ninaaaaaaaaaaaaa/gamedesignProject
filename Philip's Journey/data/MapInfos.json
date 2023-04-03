@@ -7,5 +7,5 @@ null,
 {"id":5,"expanded":false,"name":"MAP003","order":5,"parentId":0,"scrollX":819,"scrollY":438.5},
 {"id":6,"expanded":false,"name":"MAP004","order":6,"parentId":0,"scrollX":811,"scrollY":473.5},
 {"id":7,"expanded":true,"name":"MAP005","order":7,"parentId":0,"scrollX":869,"scrollY":481.5},
-{"id":8,"expanded":true,"name":"maze","order":8,"parentId":0,"scrollX":871,"scrollY":430.5}
+{"id":8,"expanded":true,"name":"maze","order":8,"parentId":0,"scrollX":1683,"scrollY":660.5}
 ]
